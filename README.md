@@ -1,3 +1,3 @@
 # RRFI
-Reconfigurable Radio Frequency Interface
-USE master branch
+Reconfigurable Radio Frequency Interface.
+! USE master branch
